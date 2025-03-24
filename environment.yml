@@ -17,4 +17,7 @@ dependencies:
   - r-base=4.2
   - r-irkernel
   - r-ggplot2
-  - r-variantannotation
+  - r-dplyr
+  - r-tibble
+  - r-readr
+  - r-tidyr
