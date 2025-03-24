@@ -17,4 +17,4 @@ dependencies:
   - r-base=4.2
   - r-irkernel
   - r-ggplot2
-  - r-deseq2
+  - r-genomicranges
