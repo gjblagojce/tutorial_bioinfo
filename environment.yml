@@ -13,3 +13,5 @@ dependencies:
   - pip
   - pip:
     - vcfpy
+  - r-base=4.2
+  - r-irkernel
