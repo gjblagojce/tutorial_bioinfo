@@ -1,0 +1,10 @@
+---
+title: "Bioinformatics Analysis Report"
+output: html_document
+---
+
+## RNA-seq Analysis Example
+
+```{r}
+print('RNA-seq analysis will go here')
+```
