@@ -3,7 +3,7 @@ channels:
   - conda-forge
   - bioconda
 dependencies:
-  - python=3.11
+  - python=3.10
   - biopython
   - scikit-bio
   - numpy
@@ -11,14 +11,13 @@ dependencies:
   - matplotlib
   - seaborn
   - plotly
+  - r-base=4.2
+  - r-irkernel
+  - r-deseq2
+  - r-ggplot2
+  - r-complexheatmap
+  - r-variantannotation
+  - r-genomicranges
   - pip
   - pip:
       - PyVCF
-  - r-base=4.2
-  - r-irkernel
-  - r-essentials
-  - r-deseq2
-  - r-variantannotation
-  - r-genomicranges
-  - r-ggplot2
-  - r-complexheatmap
