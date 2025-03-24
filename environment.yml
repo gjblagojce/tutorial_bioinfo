@@ -11,4 +11,5 @@ dependencies:
   - seaborn
   - plotly
   - pip
-  - cyvcf2
+  - pip:
+    - vcfpy
