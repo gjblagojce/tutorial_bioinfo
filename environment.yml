@@ -1,6 +1,7 @@
 name: bioinfo
 channels:
   - conda-forge
+  - bioconda
 dependencies:
   - python=3.11
   - biopython
@@ -10,13 +11,14 @@ dependencies:
   - matplotlib
   - seaborn
   - plotly
-  - snakemake
-  - r-base
-  - r-essentials
+  - pip
+  - pip:
+      - PyVCF
+  - r-base=4.2
   - r-irkernel
+  - r-essentials
   - r-deseq2
-  - r-genomicranges
   - r-variantannotation
-  - r-complexheatmap
+  - r-genomicranges
   - r-ggplot2
-  - r-plotly
+  - r-complexheatmap
