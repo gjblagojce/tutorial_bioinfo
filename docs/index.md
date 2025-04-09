@@ -3,7 +3,7 @@
 Welcome to the Bioinformatics Tutorial!
 
 ## Content
-- [Python Examples](../notebooks/Python_examples.ipynb)
+- [Python Examples](../notebooks/00_Introduction.ipynb)
 - [R Examples](../notebooks/R_examples.ipynb)
 - [Data](../data/)
 - [Scripts](../scripts/)
