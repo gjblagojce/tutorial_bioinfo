@@ -12,7 +12,6 @@ dependencies:
   - seaborn
   - plotly
   - pip
-  - nglview
   - py3Dmol
   - pip:
     - vcfpy
