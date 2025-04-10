@@ -12,6 +12,7 @@ dependencies:
   - seaborn
   - plotly
   - pip
+  - nglview
   - pip:
     - vcfpy
   - samtools
