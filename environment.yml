@@ -16,10 +16,4 @@ dependencies:
   - pip:
     - vcfpy
   - samtools
-  - r-base=4.2
-  - r-irkernel
-  - r-ggplot2
-  - r-dplyr
-  - r-tibble
-  - r-readr
-  - r-tidyr
+
