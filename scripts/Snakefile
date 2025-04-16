@@ -1,8 +1,0 @@
-rule all:
-    input: "output/complement.txt"
-
-rule complement_sequence:
-    input: "data/example.fasta"
-    output: "output/complement.txt"
-    shell:
-        "python -c \"from Bio import SeqIO; seq = next(SeqIO.parse('{input}', 'fasta')).seq; print(seq.complement())\" > {output}"
