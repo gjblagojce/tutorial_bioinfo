@@ -3,7 +3,7 @@
 This repository contains a collection of Python notebooks, data files, and scripts for hands-on bioinformatics learning.
 
 - 🔬 Launch on Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gjblagojce/tutorial_bioinfo/main?urlpath=lab)
-
+- GitHub Pages [here](https://gjblagojce.github.io/tutorial_bioinfo/)
 ---
 
 ## 📚 Topics Covered
