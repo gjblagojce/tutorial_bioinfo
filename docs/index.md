@@ -27,10 +27,10 @@ You can browse and view the following notebooks:
 - [06 - Data Visualization](06_Data_visualization.html)
 - [07 - Tips and Tricks](07_Tips_and_Tricks.html)
 
-> 💡 *To run interactively, visit the [Binder version here](https://mybinder.org/v2/gh/gjblagojce/tutorial_bioinfo/main?urlpath=lab).*
+> 💡 *To run interactively, visit the [Binder version here](https://mybinder.org/v2/gh/gjblagojce/tutorial_bioinfo_python/main?urlpath=lab).*
 
 ---
 
 ## 📦 Project Repository
 
-Visit the full source code on GitHub: [gjblagojce/tutorial_bioinfo](https://github.com/gjblagojce/tutorial_bioinfo)
+Visit the full source code on GitHub: [gjblagojce/tutorial_bioinfo](https://github.com/gjblagojce/tutorial_bioinfo_python)
